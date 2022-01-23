@@ -9,8 +9,8 @@ app.use(express.urlencoded({extended: true}))
 app.set('view engine', 'ejs')
 
 
-app.get('/user', UserController.GET)
-app.post('/user', UserController.POST)
+app.get('/', UserController.GET)
+app.post('/', UserController.POST)
 
 app.listen(PORT, console.log(PORT))
 
