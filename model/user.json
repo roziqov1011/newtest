@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "name": "baxtiyor",
+        "age": 19,
+        "tel": "90-200-04-14",
+        "body": " baxtiyor haqida Lorem ipsum dolor sit amet consectetur adipisicing elit. Vitae excepturi, sit deserunt atque a maiores delectus ipsum omnis ut quam?"
+    },
+    {
+        "id": 2,
+        "name": "abdushukur",
+        "age": 18,
+        "tel": "90-200-07-20",
+        "body": " abdushukur haqida Lorem ipsum dolor sit amet consectetur adipisicing elit. Vitae excepturi, sit deserunt atque a maiores delectus ipsum omnis ut quam?"
+    },
+    {
+        "id": 3,
+        "name": "hurshid",
+        "age": 20,
+        "tel": "90-200-01-02",
+        "body": " hurshid haqida Lorem ipsum dolor sit amet consectetur adipisicing elit. Vitae excepturi, sit deserunt atque a maiores delectus ipsum omnis ut quam?"
+    },
+    {
+        "id": 4,
+        "name": "rozivoy",
+        "age": 25,
+        "tel": "90-2206-06-90",
+        "body": " rozivoy haqida Lorem ipsum dolor sit amet consectetur adipisicing elit. Vitae excepturi, sit deserunt atque a maiores delectus ipsum omnis ut quam?"
+    },
+    {
+        "id": 5,
+        "name": "shoxjahon",
+        "tel": "902000000",
+        "body": "salomlar bolshindjhdiubdsks"
+    },
+    {
+        "id": 6,
+        "name": "muzaffar",
+        "tel": "901000000",
+        "body": "hjdsfihfius"
+    }
+]
